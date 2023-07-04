@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gruppo', sans-serif;   
+}
+
+h1 {
+    font-weight: 560;
+    font-size: 100px;
+    color:white;
+    
+}
+
+p {
+    font-weight: 700;
+    font-size: 50px;
+    color:gray ;
+    width: 515px;
+}
+
+img {
+    width: 600px;
+    height: 400px;
+    margin-left: 725px;
+    margin-top: 50px;
+
+}
